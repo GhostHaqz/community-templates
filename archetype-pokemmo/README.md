@@ -58,7 +58,7 @@ Verified with dark mode, light mode, wallpaper-derived `m3-content`, a second wa
 
 ## AI note
 
-**This template was vibecoded with AI assistance.**
+**This template was fully vibecoded using AI assistance.**
 
 ## Upstream
 
